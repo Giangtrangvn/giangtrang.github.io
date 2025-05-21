@@ -19,6 +19,6 @@ Giang Trang theo đuổi dòng nhạc Trịnh Công Sơn một cách riêng bi�
 ## Kết nối
 
 - [Facebook – Giang Trang](https://www.facebook.com/giangtrang)  
-- Email: giangtrang@gmail.com
+- Email: giangtrangproductions@gmail.com
 
 > *“Đừng tưởng đỏ là chín” – và cũng đừng tưởng một nghệ sĩ chỉ đơn thuần là người hát.”*
