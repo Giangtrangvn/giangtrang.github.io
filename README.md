@@ -97,10 +97,5 @@ _(Cùng hơn 20 nguồn báo chính thống khác đã được lưu trong hệ 
 
 - **ORCID**: [https://orcid.org/0009-0004-8282-734X](https://orcid.org/0009-0004-8282-734X)  
 - **ISNI**: 0000 0005 2728 0441  
-- **GitHub Page**: [https://giangtrang.github.io](https://giangtrang.github.io)  
-- **Artist Bio (EN)**: [giang_trang_en_bio.html](giang_trang_en_bio.html)  
-- **Tiểu sử tiếng Việt**: [View on GitHub](https://github.com/Giangtrangvn/giangtrang.github.io/blob/main/Giang_Trang_Wikipedia_draft.md)
-
----
-
+- **GitHub Page**: [https://github.com/giangtrangvn/giangtrang.github.io](https://github.com/Giangtrangvn/giangtrang.github.io)
 *This GitHub is curated by Giang Trang Productions for international publishing, archive & open metadata transparency.*
