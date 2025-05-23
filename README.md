@@ -1,4 +1,5 @@
 # Giang Trang – Nghệ sĩ độc lập
+
 ### ORCID
 [![ORCID](https://img.shields.io/badge/ORCID-ID-green?logo=orcid)](https://orcid.org/0009-0004-8282-734X)
 Ca sĩ, nghệ sĩ trình diễn và người kể chuyện bằng âm nhạc.  
@@ -23,6 +24,7 @@ Giang Trang theo đuổi dòng nhạc Trịnh Công Sơn một cách riêng bi�
 - Email: giangtrangproductions@gmail.com
 
 > *“Đừng tưởng đỏ là chín” – và cũng đừng tưởng một nghệ sĩ chỉ đơn thuần là người hát.”*
+> 
 [![ISNI](https://img.shields.io/badge/ISNI-0000%200005%202728%200441-blue?logo=data:image/svg+xml)](https://isni.org/isni/0000000527280441)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--8282--734X-green?logo=orcid)](https://orcid.org/0009-0004-8282-734X)
 
