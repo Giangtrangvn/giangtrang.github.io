@@ -25,3 +25,7 @@ Giang Trang theo đuổi dòng nhạc Trịnh Công Sơn một cách riêng bi�
 > *“Đừng tưởng đỏ là chín” – và cũng đừng tưởng một nghệ sĩ chỉ đơn thuần là người hát.”*
 [![ISNI](https://img.shields.io/badge/ISNI-0000%200005%202728%200441-blue?logo=data:image/svg+xml)](https://isni.org/isni/0000000527280441)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--8282--734X-green?logo=orcid)](https://orcid.org/0009-0004-8282-734X)
+## About Giang Trang (EN)
+
+You can read the full English biography of artist Giang Trang here:  
+👉 [Artist Biography (English Version)](giang_trang_en_bio.html)
