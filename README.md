@@ -3,7 +3,7 @@
 ### ORCID
 [![ORCID](https://img.shields.io/badge/ORCID-ID-green?logo=orcid)](https://orcid.org/0009-0004-8282-734X)
 Ca sĩ, nghệ sĩ trình diễn và người kể chuyện bằng âm nhạc.  
-Giang Trang theo đuổi dòng nhạc Trịnh Công Sơn một cách riêng biệt – tối giản, tĩnh lặng và đầy nội tâm. Ngoài âm nhạc Trịnh Công Sơn, cô còn quan tâm tới các ca khúc Việt Nam thời kỳ pre90s, sáng tác ca khúc của riêng mình, yêu thích radio, sáng tác thơ, thiết kế nội thất, và thực hành nghệ thuật mang tính cá nhân, có chiều sâu và bản sắc.
+Giang Trang theo đuổi dòng nhạc Trịnh Công Sơn một cách riêng biệt – tối giản, tĩnh lặng và đầy nội tâm. Ngoài âm nhạc Trịnh Công Sơn, cô còn quan tâm tới các ca khúc Việt Nam thời kỳ pre90s, sáng tác ca khúc của riêng mình, yêu thích radio, sáng tác thơ, thiết kế nội thất, và thực hành nghệ thuật mang tính cá nhân.
 
 ---
 
